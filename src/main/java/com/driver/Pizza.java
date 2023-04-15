@@ -10,10 +10,10 @@ public class Pizza {
     private boolean isCheese;
     private boolean isTopping;
 
-    String base;
-    String cheese;
-    String topping;
-    String bag;
+    String base="";
+    String cheese="";
+    String topping="";
+    String bag="";
 
 
 
